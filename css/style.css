@@ -1,0 +1,39 @@
+.container {
+    border: 1px solid;
+    border-radius: 10px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 150px;
+
+}
+
+.container input {
+    width: 350px;
+    padding: 10px;
+    font-size: 24px;
+    margin: 10px;
+    border: none;
+    outline: none;
+
+}
+
+.container img {
+    width: 34px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.login{
+    padding: 30px;
+    text-align: center;
+}
+
+.login button{
+    width: 75px;
+    height: 35px;
+    font-size: large;
+    
+}
